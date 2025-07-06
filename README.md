@@ -14,4 +14,4 @@ Simulação de transferência confiável, segundo o canal de transmissão confi�
 Desenvolvimento de um chat através do protocolo de comunicação UDP, que funciona a partir de linhas de comando. É possível conferir mais detalhes sobre o 3º projeto no documento anexado: [Projeto de Infracom 2024.2](https://github.com/ArielBADs/Project-IF678/blob/main/Projeto%20de%20Infracom%202024.2.pdf)
 
 # Detalhamento
-Nesse [video](https://drive.google.com/file/d/1nAGf6SLwEpz-tnQOg3_-tL5CCCW8M67J/view) é possível conferir a explicação detalhada do código criado na 3º entrega do projeto.
+Neste [video](https://drive.google.com/file/d/1nAGf6SLwEpz-tnQOg3_-tL5CCCW8M67J/view) é possível conferir a explicação detalhada do código criado na 3º entrega do projeto.
